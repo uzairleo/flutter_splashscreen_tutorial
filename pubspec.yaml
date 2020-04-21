@@ -1,4 +1,4 @@
-name: flutter_splashscreen_tutorial
+name: splashscreens
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -23,6 +23,10 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
+  font_awesome_flutter: any
+  flutter_spinkit: any
+  splashscreen: any
+  
 
 dev_dependencies:
   flutter_test:
@@ -70,3 +74,5 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+module:
+    androidX : true 
