@@ -95,7 +95,7 @@ Color colors=Colors.blue;
                             child: CircleAvatar(
                               radius: radius,
                               backgroundColor: Colors.blue,
-                              child: FlutterLogo(size:iconSize),
+                              child: FlutterLogo(size:iconSize,colors: Colors.red,),
                             ),
                           ),
                         ),
@@ -135,7 +135,7 @@ Color colors=Colors.blue;
                   fontWeight: FontWeight.bold,
                   fontStyle: FontStyle.italic),
                   ),
-                SizedBox(height: 85.0,),
+                SizedBox(height: 45.0,),
 
               SpinKitWave(color: colors,type: SpinKitWaveType.center,size: 38.0,),
                   SizedBox(height: 80.0,),
