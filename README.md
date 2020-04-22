@@ -1,12 +1,12 @@
 # flutter_splashscreen_tutorial
 
 This project is about the approaches regarding splashScreens in flutter 
--builtin splashScreen widget
--custom splashScreen widget
+        - builtin splashScreen widget
+        - custom splashScreen widget
 
 
 
-![](splashscreen.gif)
+![](splashscreen2.gif)
 
 
 
